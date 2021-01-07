@@ -1,0 +1,21 @@
+{
+    "todos":[
+        {
+            "title": "taskOne",
+            "description": "lorem",
+            "priority": "Medium"
+        },
+
+        {
+            "title": "taskTwo",
+            "description": "ipsum",
+            "priority": "High"
+        },
+
+        {
+            "title": "taskThree",
+            "description": "dolor",
+            "priority": "Low"
+        }
+    ]
+}
